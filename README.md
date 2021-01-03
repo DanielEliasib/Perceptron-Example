@@ -11,7 +11,7 @@ For an online example on Google Colab go to [this link](https://colab.research.g
 
 --------------
 
-If instead you want a local copy of this project theL
+If instead you want a local copy of this project then:
 
 On your local machine clone this repo:
 
