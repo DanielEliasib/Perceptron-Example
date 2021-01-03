@@ -5,6 +5,14 @@ This project contains source code for a simple perceptron implementation with so
 ![2D example](./Examples/result2D.png)
 
 # How to use?
+For an online example on Google Colab go to [this link](https://colab.research.google.com/drive/1ML1a4CPC-CfCdRvJToqiMbpEmbCCXVbU?usp=sharing). Just copy the notebook to your account and run all the cells, everything is explained there. 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ML1a4CPC-CfCdRvJToqiMbpEmbCCXVbU?usp=sharing)
+
+--------------
+
+If instead you want a local copy of this project theL
+
 On your local machine clone this repo:
 
 ```
