@@ -1,8 +1,8 @@
 # Perceptron-Example
 This project contains source code for a simple perceptron implementation with some examples.
 
-![3D example](./result3D.png)
-![2D example](./result2D.png)
+![3D example](./Examples/result3D.png)
+![2D example](./Examples/result2D.png)
 
 # How to use?
 On your local machine clone this repo:
